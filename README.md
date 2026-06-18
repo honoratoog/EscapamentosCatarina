@@ -111,4 +111,4 @@ python3 -m http.server 8080
 
 ---
 
-*Projeto acadêmico — entregue em 18/06/2026*
+*Projeto acadêmico*
